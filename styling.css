@@ -1,0 +1,19 @@
+#countdown {
+  width: 300px;
+  margin: 0 auto;
+}
+
+#countdown h1 {
+  text-align: center;
+}
+
+#countdown ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+#countdown li {
+  display: inline-block;
+  width: 75px;
+  text-align: center;
+}
